@@ -1,7 +1,7 @@
 API ViaCep
 Necessário Thunder Client ou EchoAPI
 
-O servidor é iniciado no server.js, com o comando (node server.js)
+O servidor é iniciado no server.js, com o comando (node server.js).
 No teste.http é possivel consultar o CEP alterando o CEP já instaurado no GET.
 
 Exemplo de um GET com 8 digitos corretamente:
